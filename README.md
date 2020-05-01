@@ -1,5 +1,5 @@
 # altOxy
-Doing one or a mix of the several spO2 measuring devices
+Doing one device for measuring spO2 in blood
 
 ## References 
 
