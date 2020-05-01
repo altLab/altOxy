@@ -3,9 +3,9 @@ Doing one or a mix of the several spO2 measuring devices
 
 References 
 
-# Projects
+## Projects
 
-Instructables 
+# Instructables 
 
 https://www.instructables.com/id/Simple-DIY-Pulse-Sensor/
 
