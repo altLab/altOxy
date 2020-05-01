@@ -9,6 +9,8 @@ Doing one device for measuring spO2 in blood
 
 https://www.instructables.com/id/Simple-DIY-Pulse-Sensor/
 
+https://altlab.org/d/m/jpralves/newsletters/2020/261/#Projetos-Maker
+
 https://www.instructables.com/id/Arduino-Pulse-Oximeter/
 
 ### hackaday
