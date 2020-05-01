@@ -23,6 +23,8 @@ https://create.arduino.cc/projecthub/SurtrTech/measure-heart-rate-and-spo2-with-
 
 https://www.nxp.com/docs/en/application-note/AN4327.pdf
 
+https://en.wikipedia.org/wiki/Pulse_oximetry
+
 ## Shopping
 
 https://www.sparkfun.com/products/15219
