@@ -31,3 +31,6 @@ https://en.wikipedia.org/wiki/Pulse_oximetry
 
 https://www.sparkfun.com/products/15219
 
+
+### 1st Try
+https://www.instructables.com/id/Arduino-Pulse-Oximeter/
